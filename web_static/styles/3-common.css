@@ -10,12 +10,3 @@ header, footer {
     border-color: #CCCCCC;
     border-style: solid;
 }
-
-.logo {
-    background-image: url('../images/logo.png');
-    background-size: contain;
-    background-position: left center;
-    background-repeat: no-repeat;
-    height: 100%;
-    margin-left: 20px;
-}
